@@ -1,0 +1,5 @@
+Jim - Salesman
+Dwight - Salesman
+Karen - Medical assistent
+Kuba - Civil Engineer
+Toby - Human Resources
